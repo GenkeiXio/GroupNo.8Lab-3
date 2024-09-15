@@ -43,7 +43,6 @@
             </ul>
         </b>
     </footer>
-    <script src="{{ asset('javascript/contact.js') }}"></script>
 </body>
 </html>
 
